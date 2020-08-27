@@ -19,7 +19,9 @@ Kommer den med det samme, eller sker det når man:
 3. Ser fejlen '....'
 
 ### Hvordan ser konfigurationen ud?
+```json
 Indsæt evt. hele eller dele af konfigurationen her
+```
 
 ### Eventuel fejlbesked fra browseren
 Brug evt. Ctrl.+F12 for at se fejlen i browseren
