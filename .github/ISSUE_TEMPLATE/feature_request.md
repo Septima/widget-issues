@@ -1,6 +1,6 @@
 ---
 name: Forslag
-about: Kom gerne med forslag til ny eller forbedret funktionatet
+about: Kom gerne med forslag til ny eller forbedret funktionalitet
 labels:
  - feature request
 
