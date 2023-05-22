@@ -2,7 +2,7 @@
 
 Opret issues hvis der er fejl, mangler eller spørgsmål [her](https://github.com/Septima/widget-issues/issues/new/choose)
 
-Deltag i diskussion [her](https://github.com/Septima/widget-issues/discussions)
+Opret og deltag i diskussion [her](https://github.com/Septima/widget-issues/discussions).
 
 ### Dokumentation
 - Se hvordan du konfigurerer Septima Widget https://septima.dk/widget/documentation.html
